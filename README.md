@@ -59,8 +59,6 @@ LOGGING_LEVEL_COM_FACTURATION=DEBUG
 LOGGING_LEVEL_ORG_SPRINGFRAMEWORK_WEB=DEBUG
 ```
 
-**⚠️ Important :** Le fichier `.env` ne doit jamais être commité dans Git car il contient des informations sensibles.
-
 3. Lancer l'application :
 ```bash
 mvn spring-boot:run
